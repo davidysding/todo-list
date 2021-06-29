@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ```
-![A screenshot for Todo List](/relative/README_IMG/APP.png?raw=true "Optional Title")
+![A screenshot for Todo List](./README_IMG/APP.png "Optional Title")
 ```
 
 ## Available Scripts

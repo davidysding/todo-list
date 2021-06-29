@@ -27,6 +27,7 @@ export default class Header extends Component {
         return (
             <div>
                 <div className="todo-header">
+                <h1 style={{textAlign:'center'}}>Todo list</h1>
                     <input onKeyUp={this.handleKeyUp} type="text" placeholder="Enter Your Tasks and then press Enter. " />
                 </div>
             </div>

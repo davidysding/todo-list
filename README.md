@@ -2,8 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 ![A screenshot for Todo List](https://github.com/davidysding/todo-list/blob/master/README_IMG/APP.png "Screenshot of Todo List By React")
+
+
+
+## Live Deployed With react-gh-pages
+
+The tutorial from [gitname](https://github.com/gitname/react-gh-pages) is what I followed to deploy my project live on GitHub Page.
+
+
 
 ## Available Scripts
 

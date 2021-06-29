@@ -8,9 +8,9 @@ export default class App extends Component {
 
     state = {
         todos:
-            [{ id: '001', name: "Eat", done: true },
-            { id: '002', name: "Dinner", done: false },
-            { id: '003', name: "ABC", done: true }
+            [{ id: '001', name: "Example Todo: Eat", done: true },
+            { id: '002', name: "Example Todo: Dinner", done: false },
+            { id: '003', name: "Example Todo: Shopping", done: true }
             ]
     }
     addTodo = (todoObj) => {

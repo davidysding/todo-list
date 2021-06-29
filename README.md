@@ -1,4 +1,4 @@
-# Todo-list
+# Todo-list ([Check it out live](https://davidysding.github.io/todo-list/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

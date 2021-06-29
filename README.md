@@ -2,9 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-```
+
 ![A screenshot for Todo List](https://github.com/davidysding/todo-list/blob/master/README_IMG/APP.png "Screenshot of Todo List By React")
-```
 
 ## Available Scripts
 
